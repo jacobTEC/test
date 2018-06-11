@@ -1,0 +1,7 @@
+C:\Users\Tec\source\repos\Motorcycle\Motorcycle\bin\Debug\Motorcycle.exe.config
+C:\Users\Tec\source\repos\Motorcycle\Motorcycle\bin\Debug\Motorcycle.exe
+C:\Users\Tec\source\repos\Motorcycle\Motorcycle\bin\Debug\Motorcycle.pdb
+C:\Users\Tec\source\repos\Motorcycle\Motorcycle\obj\Debug\Motorcycle.csprojResolveAssemblyReference.cache
+C:\Users\Tec\source\repos\Motorcycle\Motorcycle\obj\Debug\Motorcycle.csproj.CoreCompileInputs.cache
+C:\Users\Tec\source\repos\Motorcycle\Motorcycle\obj\Debug\Motorcycle.exe
+C:\Users\Tec\source\repos\Motorcycle\Motorcycle\obj\Debug\Motorcycle.pdb
